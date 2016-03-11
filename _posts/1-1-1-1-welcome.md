@@ -2,9 +2,7 @@
 
 
 
-
 --
-
 <img src="{{ site.baseurl }}/img/pc1.gif">
 
 --
@@ -15,3 +13,6 @@
 </object>
 
 
+
+--
+<img src="{{ site.baseurl }}/img/pc1.gif">
