@@ -1,10 +1,8 @@
 ## CACHUCHO
 
-energia solar
-auditoria energetica
+
 
 --
-
 <img src="{{ site.baseurl }}/img/pc1.gif">
 
 --
@@ -14,6 +12,7 @@ auditoria energetica
     Error: Embedded data could not be displayed.
 </object>
 
---
 
+
+--
 <img src="{{ site.baseurl }}/img/pc1.gif">
