@@ -2,6 +2,15 @@
 
 --
 
+<img src="{{ site.baseurl }}/img/drawing.svg">
+
+--
+
+<img src="{{ site.baseurl }}/img/drawing1.svg">
+
+--
+
+
 <img src="{{ site.baseurl }}/img/contactoiotcTarjeta.svg">
 
 --
